@@ -1,0 +1,11 @@
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\bin\Debug\net8.0\ZooLibrary.deps.json
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\bin\Debug\net8.0\ZooLibrary.dll
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\bin\Debug\net8.0\ZooLibrary.pdb
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\ZooLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\ZooLibrary.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\ZooLibrary.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\ZooLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\ZooLibrary.dll
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\refint\ZooLibrary.dll
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\ZooLibrary.pdb
+C:\Users\ahmad\source\repos\ZooApp\ZooLibrary\obj\Debug\net8.0\ref\ZooLibrary.dll
